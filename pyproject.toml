@@ -11,7 +11,7 @@ requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "farkhad" }]
 dependencies = [
-    "click>=8.1",
+    "click>=8.3.2",
     "rich>=13.0",
     "psutil>=5.9",
 ]
